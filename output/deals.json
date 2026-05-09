@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-09T21:02:28.701Z",
+  "generatedAt": "2026-05-09T21:03:36.481Z",
   "category": "deals",
-  "count": 43,
+  "count": 45,
   "articles": [
     {
       "title": "Open Box/Excellent: 512GB Motorola edge+ Unlocked Android Smartphone (2023) $255 & More + Free S&H",
@@ -303,6 +303,20 @@
       "source": "9to5Toys",
       "category": "deals",
       "publishedAt": "2026-05-08T17:45:00.000Z"
+    },
+    {
+      "title": "Google Fitbit Air preorders come with a second band for free",
+      "url": "https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale",
+      "source": "The Verge - Deals",
+      "category": "deals",
+      "publishedAt": "2026-05-08T15:39:43.000Z"
+    },
+    {
+      "title": "Nintendo is raising the price of the Switch 2 by $50 starting in September — Console will soon cost $499, but you can avoid the price hike if you buy now",
+      "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-is-raising-the-price-of-the-switch-2-by-usd50-starting-in-september-console-will-soon-cost-usd499-but-you-can-avoid-the-price-hike-if-you-buy-now",
+      "source": "Tom's Hardware",
+      "category": "deals",
+      "publishedAt": "2026-05-08T15:14:07.000Z"
     }
   ]
 }
