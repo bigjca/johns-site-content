@@ -1,0 +1,16 @@
+{
+  "name": "johns-site-content",
+  "version": "1.0.0",
+  "description": "Collects latest tech and gaming news from RSS feeds and outputs structured JSON for UI consumption",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "fetch": "node src/index.js",
+    "fetch:dry": "node src/index.js --dry-run"
+  },
+  "keywords": ["news", "rss", "tech", "gaming"],
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

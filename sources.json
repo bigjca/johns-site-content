@@ -1,0 +1,102 @@
+{
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+      "category": "tech"
+    },
+    {
+      "name": "The Verge",
+      "feedUrl": "https://www.theverge.com/rss/index.xml",
+      "category": "tech"
+    },
+    {
+      "name": "TechCrunch",
+      "feedUrl": "https://techcrunch.com/feed/",
+      "category": "tech"
+    },
+    {
+      "name": "Hacker News (Best)",
+      "feedUrl": "https://hnrss.org/best",
+      "category": "tech"
+    },
+    {
+      "name": "Engadget",
+      "feedUrl": "https://www.engadget.com/rss.xml",
+      "category": "tech"
+    },
+    {
+      "name": "Kotaku",
+      "feedUrl": "https://kotaku.com/rss",
+      "category": "gaming"
+    },
+    {
+      "name": "IGN",
+      "feedUrl": "https://feeds.feedburner.com/ign/all",
+      "category": "gaming"
+    },
+    {
+      "name": "PC Gamer",
+      "feedUrl": "https://www.pcgamer.com/rss/",
+      "category": "gaming"
+    },
+    {
+      "name": "Eurogamer",
+      "feedUrl": "https://www.eurogamer.net/feed",
+      "category": "gaming"
+    },
+    {
+      "name": "Rock Paper Shotgun",
+      "feedUrl": "https://www.rockpapershotgun.com/feed",
+      "category": "gaming"
+    },
+
+    {
+      "name": "Slickdeals - Tech",
+      "feedUrl": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&forumchoice%5B%5D=9",
+      "category": "deals"
+    },
+    {
+      "name": "9to5Toys",
+      "feedUrl": "https://9to5toys.com/feed/",
+      "category": "deals"
+    },
+    {
+      "name": "Tom's Hardware",
+      "feedUrl": "https://www.tomshardware.com/feeds/all",
+      "category": "deals"
+    },
+    {
+      "name": "TechRadar - Deals",
+      "feedUrl": "https://www.techradar.com/rss/news/deals",
+      "category": "deals"
+    },
+    {
+      "name": "The Verge - Deals",
+      "feedUrl": "https://www.theverge.com/rss/good-deals/index.xml",
+      "category": "deals"
+    },
+
+    {
+      "name": "ESPN - Top Headlines",
+      "feedUrl": "https://www.espn.com/espn/rss/news",
+      "category": "sports"
+    },
+    {
+      "name": "CBS Sports",
+      "feedUrl": "https://www.cbssports.com/rss/headlines/",
+      "category": "sports"
+    },
+    {
+      "name": "The Athletic",
+      "feedUrl": "https://theathletic.com/feeds/rss/news/",
+      "category": "sports"
+    }
+  ],
+  "settings": {
+    "maxArticlesTotal": 200,
+    "maxArticlesPerSource": 15,
+    "requestTimeoutMs": 10000,
+    "outputFile": "output/news.json"
+  }
+}
