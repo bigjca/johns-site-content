@@ -4,6 +4,14 @@ on:
   # Manual trigger from the Actions tab
   workflow_dispatch:
 
+  # Run automatically every 2 hours (minutes: 0, hours: divisible by 2)
+  schedule:
+    - cron: '0 */2 * * *'
+
+  # Allow triggering via external API webhook
+  repository_dispatch:
+    types: [refresh-news]
+
 permissions:
   contents: write
 
