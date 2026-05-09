@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-09T21:02:28.701Z",
+  "generatedAt": "2026-05-09T21:03:36.481Z",
   "category": "gaming",
-  "count": 53,
+  "count": 59,
   "articles": [
     {
       "title": "AlteredBlood+ is a movement shooter set at the end of the universe where the key to survival is soaking up your enemies' blood",
@@ -373,6 +373,48 @@
       "source": "Kotaku",
       "category": "gaming",
       "publishedAt": "2026-05-08T17:40:09.000Z"
+    },
+    {
+      "title": "Zelda 2 Deserves Better",
+      "url": "https://kotaku.com/zelda-2-nintendo-series-miyamoto-is-it-good-link-past-breath-wild-2000694068",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-05-08T17:00:45.000Z"
+    },
+    {
+      "title": "\"A handful of bottlenecks\" remain for Morrowind remake mod Skywind, but it's still progressing steadily towards release",
+      "url": "https://www.rockpapershotgun.com/a-handful-of-bottlenecks-remain-for-morrowind-remake-mod-skywind-but-its-still-progressing-steadily-towards-release",
+      "source": "Rock Paper Shotgun",
+      "category": "gaming",
+      "publishedAt": "2026-05-08T17:00:00.000Z"
+    },
+    {
+      "title": "Family Reunion is a dinnertime simulation game that captures the wonder and boredom of being a loosely disciplined 7-year-old",
+      "url": "https://www.rockpapershotgun.com/family-reunion-is-a-dinnertime-simulation-game-that-captures-the-wonder-and-boredom-of-being-a-loosely-disciplined-7-year-old",
+      "source": "Rock Paper Shotgun",
+      "category": "gaming",
+      "publishedAt": "2026-05-08T16:31:30.000Z"
+    },
+    {
+      "title": "Neverness To Everness Accused Of Replacing GenAI Art With Different GenAI Art",
+      "url": "https://kotaku.com/neverness-to-everness-ai-art-genai-billboard-weathering-with-you-2000694298",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-05-08T16:28:40.000Z"
+    },
+    {
+      "title": "\"Who knows, we could bring him back when he's 70\" - Resident Evil Requiem director reckons Leon's got what it takes to last",
+      "url": "https://www.eurogamer.net/resident-evil-requiem-leon-great-character-70s",
+      "source": "Eurogamer",
+      "category": "gaming",
+      "publishedAt": "2026-05-08T16:04:02.000Z"
+    },
+    {
+      "title": "Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem",
+      "url": "https://kotaku.com/surprise-capcom-just-added-a-free-roguelike-mode-to-resident-evil-requiem-2000694319",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-05-08T15:37:12.000Z"
     }
   ]
 }

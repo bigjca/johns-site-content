@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-09T21:02:28.701Z",
+  "generatedAt": "2026-05-09T21:03:36.481Z",
   "category": "tech",
-  "count": 59,
+  "count": 66,
   "articles": [
     {
       "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
@@ -415,6 +415,55 @@
       "source": "TechCrunch",
       "category": "tech",
       "publishedAt": "2026-05-08T17:20:37.000Z"
+    },
+    {
+      "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
+      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "publishedAt": "2026-05-08T17:17:17.000Z"
+    },
+    {
+      "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
+      "url": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "publishedAt": "2026-05-08T16:43:19.000Z"
+    },
+    {
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "source": "Hacker News (Best)",
+      "category": "tech",
+      "publishedAt": "2026-05-08T16:39:48.000Z"
+    },
+    {
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "source": "Hacker News (Best)",
+      "category": "tech",
+      "publishedAt": "2026-05-08T16:29:52.000Z"
+    },
+    {
+      "title": "Pentagon releases UFO files on new website",
+      "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "publishedAt": "2026-05-08T15:56:36.000Z"
+    },
+    {
+      "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
+      "url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "publishedAt": "2026-05-08T15:46:27.000Z"
+    },
+    {
+      "title": "DNA identifies four more crew members of doomed Franklin expedition",
+      "url": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "publishedAt": "2026-05-08T15:15:21.000Z"
     }
   ]
 }
