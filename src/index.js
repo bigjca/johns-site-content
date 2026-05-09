@@ -134,6 +134,10 @@ async function main() {
     await writeFile(catPath, JSON.stringify(catOutput, null, 2), 'utf-8');
     console.log(`   📁  ${category}.json — ${catArticles.length} articles`);
   }
+
+  // Force Node to exit cleanly. Occasionally, lingering HTTP keep-alive
+  // connections from the feed requests can cause the process to hang open.
+  process.exit(0);
 }
 
 main().catch((err) => {

@@ -1,8 +1,22 @@
 {
-  "generatedAt": "2026-05-09T20:23:16.565Z",
+  "generatedAt": "2026-05-09T21:02:28.701Z",
   "category": "tech",
-  "count": 58,
+  "count": 59,
   "articles": [
+    {
+      "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
+      "url": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
+      "source": "Engadget",
+      "category": "tech",
+      "publishedAt": "2026-05-09T20:37:58.000Z"
+    },
+    {
+      "title": "Fintech startup Parker files for bankruptcy",
+      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "publishedAt": "2026-05-09T20:32:17.000Z"
+    },
     {
       "title": "The electric scooter rental company Lime has filed for IPO",
       "url": "https://www.engadget.com/2168669/the-electric-scooter-rental-company-lime-has-filed-for-ipo/",
@@ -401,13 +415,6 @@
       "source": "TechCrunch",
       "category": "tech",
       "publishedAt": "2026-05-08T17:20:37.000Z"
-    },
-    {
-      "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
-      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "publishedAt": "2026-05-08T17:17:17.000Z"
     }
   ]
 }

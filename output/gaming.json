@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-05-09T20:23:16.565Z",
+  "generatedAt": "2026-05-09T21:02:28.701Z",
   "category": "gaming",
-  "count": 54,
+  "count": 53,
   "articles": [
+    {
+      "title": "AlteredBlood+ is a movement shooter set at the end of the universe where the key to survival is soaking up your enemies' blood",
+      "url": "https://www.rockpapershotgun.com/alteredblood-is-a-movement-shooter-set-at-the-end-of-the-universe-where-the-key-to-survival-is-soaking-up-your-enemies-blood",
+      "source": "Rock Paper Shotgun",
+      "category": "gaming",
+      "publishedAt": "2026-05-09T20:42:37.000Z"
+    },
     {
       "title": "Newest Edition Of Alan Moore’s Batman: The Killing Joke Costs Over $17,000",
       "url": "https://kotaku.com/newest-edition-of-batman-the-killing-joke-costs-17-grand-2000694604",
@@ -366,20 +373,6 @@
       "source": "Kotaku",
       "category": "gaming",
       "publishedAt": "2026-05-08T17:40:09.000Z"
-    },
-    {
-      "title": "Zelda 2 Deserves Better",
-      "url": "https://kotaku.com/zelda-2-nintendo-series-miyamoto-is-it-good-link-past-breath-wild-2000694068",
-      "source": "Kotaku",
-      "category": "gaming",
-      "publishedAt": "2026-05-08T17:00:45.000Z"
-    },
-    {
-      "title": "\"A handful of bottlenecks\" remain for Morrowind remake mod Skywind, but it's still progressing steadily towards release",
-      "url": "https://www.rockpapershotgun.com/a-handful-of-bottlenecks-remain-for-morrowind-remake-mod-skywind-but-its-still-progressing-steadily-towards-release",
-      "source": "Rock Paper Shotgun",
-      "category": "gaming",
-      "publishedAt": "2026-05-08T17:00:00.000Z"
     }
   ]
 }
