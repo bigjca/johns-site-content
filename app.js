@@ -30,7 +30,10 @@ async function init() {
   showLoading();
   
   try {
-    const response = await fetch('./output/news.json');
+    // Fetch directly from the data-feed branch via GitHub's raw CDN
+    // This decouples the data from the UI and prevents site redeploys!
+    // Note: raw.githubusercontent.com caches files for ~5 minutes.
+    const response = await fetch('https://raw.githubusercontent.com/bigjca/johns-site-content/data-feed/output/news.json');
     if (!response.ok) throw new Error('Network response was not ok');
     
     const data = await response.json();
