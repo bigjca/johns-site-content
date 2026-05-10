@@ -117,24 +117,6 @@ async function main() {
   await writeFile(outPath, JSON.stringify(output, null, 2), 'utf-8');
   console.log(`✅  Wrote ${output.count} articles to ${config.outputFile}`);
 
-  // Write per-category files
-  const byCategory = {};
-  for (const article of articles) {
-    (byCategory[article.category] ??= []).push(article);
-  }
-
-  for (const [category, catArticles] of Object.entries(byCategory)) {
-    const catOutput = {
-      generatedAt,
-      category,
-      count: catArticles.length,
-      articles: catArticles,
-    };
-    const catPath = resolve(outDir, `${category}.json`);
-    await writeFile(catPath, JSON.stringify(catOutput, null, 2), 'utf-8');
-    console.log(`   📁  ${category}.json — ${catArticles.length} articles`);
-  }
-
   // Force Node to exit cleanly. Occasionally, lingering HTTP keep-alive
   // connections from the feed requests can cause the process to hang open.
   process.exit(0);
