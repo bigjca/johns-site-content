@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-05-09T21:03:36.481Z",
+  "generatedAt": "2026-05-10T00:11:19.707Z",
   "category": "tech",
-  "count": 66,
+  "count": 67,
   "articles": [
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "publishedAt": "2026-05-09T21:45:00.000Z"
+    },
     {
       "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
       "url": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
@@ -32,6 +39,13 @@
       "publishedAt": "2026-05-09T19:05:30.000Z"
     },
     {
+      "title": "Meta's embrace of A.I. is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "source": "Hacker News (Best)",
+      "category": "tech",
+      "publishedAt": "2026-05-09T18:33:36.000Z"
+    },
+    {
       "title": "Porsche is discontinuing its performance e-bike division",
       "url": "https://www.engadget.com/2168638/porsche-is-discontinuing-its-performance-ebike-division/",
       "source": "Engadget",
@@ -51,6 +65,13 @@
       "source": "Engadget",
       "category": "tech",
       "publishedAt": "2026-05-09T16:30:13.000Z"
+    },
+    {
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "source": "Hacker News (Best)",
+      "category": "tech",
+      "publishedAt": "2026-05-09T16:28:36.000Z"
     },
     {
       "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
@@ -74,11 +95,25 @@
       "publishedAt": "2026-05-09T14:43:30.000Z"
     },
     {
+      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+      "source": "Hacker News (Best)",
+      "category": "tech",
+      "publishedAt": "2026-05-09T14:11:10.000Z"
+    },
+    {
       "title": "These great digital gifts will arrive just in time for Mother’s Day",
       "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-05-09T14:00:00.000Z"
+    },
+    {
+      "title": "The hypocrisy of cyberlibertarianism",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "source": "Hacker News (Best)",
+      "category": "tech",
+      "publishedAt": "2026-05-09T13:48:32.000Z"
     },
     {
       "title": "Let it snow",
@@ -135,6 +170,13 @@
       "source": "Engadget",
       "category": "tech",
       "publishedAt": "2026-05-09T10:57:31.000Z"
+    },
+    {
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "source": "Hacker News (Best)",
+      "category": "tech",
+      "publishedAt": "2026-05-09T10:12:55.000Z"
     },
     {
       "title": "LLMs corrupt your documents when you delegate",
@@ -261,13 +303,6 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-05-08T19:43:47.000Z"
-    },
-    {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "source": "Hacker News (Best)",
-      "category": "tech",
-      "publishedAt": "2026-05-08T19:40:39.000Z"
     },
     {
       "title": "Court rules Trump's 10% tariff is just as illegal as the tariff it replaced",
@@ -431,39 +466,11 @@
       "publishedAt": "2026-05-08T16:43:19.000Z"
     },
     {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "source": "Hacker News (Best)",
-      "category": "tech",
-      "publishedAt": "2026-05-08T16:39:48.000Z"
-    },
-    {
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "source": "Hacker News (Best)",
-      "category": "tech",
-      "publishedAt": "2026-05-08T16:29:52.000Z"
-    },
-    {
-      "title": "Pentagon releases UFO files on new website",
-      "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "publishedAt": "2026-05-08T15:56:36.000Z"
-    },
-    {
       "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
       "url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-05-08T15:46:27.000Z"
-    },
-    {
-      "title": "DNA identifies four more crew members of doomed Franklin expedition",
-      "url": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "publishedAt": "2026-05-08T15:15:21.000Z"
     }
   ]
 }
