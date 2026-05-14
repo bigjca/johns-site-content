@@ -23,6 +23,9 @@ navBtns.forEach(btn => {
     // Filter and render
     currentCategory = e.target.dataset.category;
     renderArticles();
+    
+    // Scroll back to top
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 });
 
