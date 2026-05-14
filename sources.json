@@ -26,6 +26,31 @@
       "category": "tech"
     },
     {
+      "name": "Wired",
+      "feedUrl": "https://www.wired.com/feed/rss",
+      "category": "tech"
+    },
+    {
+      "name": "Mashable",
+      "feedUrl": "https://mashable.com/feeds/rss/all",
+      "category": "tech"
+    },
+    {
+      "name": "Gizmodo",
+      "feedUrl": "https://gizmodo.com/rss",
+      "category": "tech"
+    },
+    {
+      "name": "ZDNet",
+      "feedUrl": "https://www.zdnet.com/news/rss.xml",
+      "category": "tech"
+    },
+    {
+      "name": "CNET",
+      "feedUrl": "https://www.cnet.com/rss/news/",
+      "category": "tech"
+    },
+    {
       "name": "Kotaku",
       "feedUrl": "https://kotaku.com/rss",
       "category": "gaming"
@@ -48,6 +73,31 @@
     {
       "name": "Rock Paper Shotgun",
       "feedUrl": "https://www.rockpapershotgun.com/feed",
+      "category": "gaming"
+    },
+    {
+      "name": "GameSpot",
+      "feedUrl": "https://www.gamespot.com/feeds/mashup/",
+      "category": "gaming"
+    },
+    {
+      "name": "Polygon",
+      "feedUrl": "https://www.polygon.com/rss/index.xml",
+      "category": "gaming"
+    },
+    {
+      "name": "Destructoid",
+      "feedUrl": "https://www.destructoid.com/feed/",
+      "category": "gaming"
+    },
+    {
+      "name": "Nintendo Life",
+      "feedUrl": "https://www.nintendolife.com/feeds/latest",
+      "category": "gaming"
+    },
+    {
+      "name": "Push Square",
+      "feedUrl": "https://www.pushsquare.com/feeds/latest",
       "category": "gaming"
     },
 
@@ -76,26 +126,20 @@
       "feedUrl": "https://www.theverge.com/rss/good-deals/index.xml",
       "category": "deals"
     },
-
     {
-      "name": "ESPN - Top Headlines",
-      "feedUrl": "https://www.espn.com/espn/rss/news",
-      "category": "sports"
+      "name": "DealNews",
+      "feedUrl": "https://www.dealnews.com/rss/rss20.xml",
+      "category": "deals"
     },
     {
-      "name": "CBS Sports",
-      "feedUrl": "https://www.cbssports.com/rss/headlines/",
-      "category": "sports"
-    },
-    {
-      "name": "The Athletic",
-      "feedUrl": "https://theathletic.com/feeds/rss/news/",
-      "category": "sports"
+      "name": "Kinja Deals",
+      "feedUrl": "https://kinjadeals.theinventory.com/rss",
+      "category": "deals"
     }
   ],
   "settings": {
-    "maxArticlesTotal": 200,
-    "maxArticlesPerSource": 15,
+    "maxArticlesTotal": 500,
+    "maxArticlesPerSource": 30,
     "requestTimeoutMs": 10000,
     "outputFile": "output/news.json"
   }
