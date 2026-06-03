@@ -6,11 +6,6 @@
       "category": "tech"
     },
     {
-      "name": "The Verge",
-      "feedUrl": "https://www.theverge.com/rss/index.xml",
-      "category": "tech"
-    },
-    {
       "name": "TechCrunch",
       "feedUrl": "https://techcrunch.com/feed/",
       "category": "tech"
@@ -119,11 +114,6 @@
     {
       "name": "TechRadar - Deals",
       "feedUrl": "https://www.techradar.com/rss/news/deals",
-      "category": "deals"
-    },
-    {
-      "name": "The Verge - Deals",
-      "feedUrl": "https://www.theverge.com/rss/good-deals/index.xml",
       "category": "deals"
     },
     {
